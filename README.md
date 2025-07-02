@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Mini assessment task
+# Mini assessment task
 
 
 # 📝 Mini Report: ML Classification & Generative AI
